@@ -1,5 +1,5 @@
 # The game Snake using just string
-![Linkedin: MaickMos](https://img.shields.io/badge/-MaickMos-blue?style=flat-square&logo=Linkedin&logoColor=white)
+[![Linkedin][Linkedin.js]][Linkedin-url]
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -59,10 +59,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: Interface.PNG
 [product-screenshot2]: DiferentsSizes.PNG
 [Python.js]:https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white
 [Python-url]: https://www.python.org/
 [Threading.js]: https://img.shields.io/badge/Threading-452AE2
 [Tkinter.js]: https://img.shields.io/badge/Tkinter-FDA254
+[Linkedin-url]:https://www.linkedin.com/in/maick-mosquera/
+[Linkedin.js]:https://img.shields.io/badge/-MaickMos-blue?style=flat-square&logo=Linkedin&logoColor=white
